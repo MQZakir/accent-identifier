@@ -1,0 +1,11 @@
+streamlit
+yt-dlp
+ffmpeg-python
+torch
+transformers
+librosa
+soundfile
+requests
+scikit-learn
+speechbrain
+torchaudio 
