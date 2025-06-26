@@ -13,8 +13,9 @@ This tool analyzes a public video URL (YouTube, Loom, direct MP4, etc.), extract
 
 2. **Install dependencies**
    ```bash
-   pip install -r requirements.txt (Requires Python 3.11 to run and download all dependencies or else sentencepiece will not be downloaded which is crucial)
+   pip install -r requirements.txt
    ```
+   (Requires Python 3.11 to run and download all dependencies or else sentencepiece will not be downloaded which is crucial)
    You also need `ffmpeg` and `yt-dlp` installed on your system:
    - [FFmpeg install guide](https://ffmpeg.org/download.html)
    - [yt-dlp install guide](https://github.com/yt-dlp/yt-dlp#installation)
